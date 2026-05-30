@@ -20,7 +20,7 @@ class Nanditha:
     location   = "Coimbatore, Tamil Nadu, India"
     degree     = "B.Sc. CS with Cyber Security (2024–2027)"
     college    = "Dr. N.G.P. Arts & Science College"
-    cgpa       = 7.8
+    cgpa       = 8.4
 
     stack = [
         "Python", "C", "C++", "Java",
