@@ -206,7 +206,7 @@ class Nanditha:
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| **B.Sc. CS with Cyber Security** | Dr. N.G.P. Arts & Science College | 2024 – 2027 | CGPA: **7.8** |
+| **B.Sc. CS with Cyber Security** | Dr. N.G.P. Arts & Science College | 2024 – 2027 | CGPA: **8.4** |
 | **Higher Secondary (12th)** | R.J. Matriculation Hr. Sec. School | 2023 – 2024 | **66.4%** |
 | **SSLC (10th)** | R.J. Matriculation Hr. Sec. School | 2021 – 2022 | **86.4%** |
 
