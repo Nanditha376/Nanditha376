@@ -1,4 +1,4 @@
-**<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nanditha%20S.M.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20%7C%20Breaking%20Into%20the%20Field&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nanditha%20S.M.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Learner%20%7C%20Ethical%20Hacking%20%7C%20Breaking%20Into%20the%20Field&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -111,13 +111,7 @@ class Nanditha:
 ## 🔥 Streak Stats
 
 <div align="center">
-
-<!-- Uncomment once you have commits:
   <img src="https://streak-stats.demolab.com?user=Nanditha376&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
--->
-
-![Day 0](https://img.shields.io/badge/Current%20Streak-Day%200%20--%20Watch%20This%20Space%20%F0%9F%94%A5-70A5FD?style=for-the-badge&labelColor=0d1117)
-
 </div>
 
 ---
@@ -125,13 +119,7 @@ class Nanditha:
 ## 📈 Activity Graph
 
 <div align="center">
-
-<!-- Uncomment once you have contributions:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nanditha376&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
--->
-
-![Activity](https://img.shields.io/badge/Activity%20Graph-Coming%20Soon%20as%20I%20Start%20Committing%20%F0%9F%93%88-bf91f3?style=for-the-badge&labelColor=0d1117)
-
 </div>
 
 ---
@@ -250,4 +238,3 @@ class Nanditha:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-**
